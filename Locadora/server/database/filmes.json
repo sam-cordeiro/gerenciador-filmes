@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b89a1147-49cb-48ac-b9de-c725d0e1960c",
+    "titulo": "O Poderoso Chefão",
+    "diretor": "Francis Ford Coppola",
+    "ano": 1972,
+    "disponivel": true
+  },
+  {
+    "id": "c1f7b029-43c2-4e9b-980b-e5a9d8c6b75f",
+    "titulo": "Pulp Fiction: Tempos de Violência",
+    "diretor": "Quentin Tarantino",
+    "ano": 1994,
+    "disponivel": true
+  },
+  {
+    "id": "a9a3b6d4-8d45-4f76-88d0-2525c345f8e1",
+    "titulo": "A Origem",
+    "diretor": "Christopher Nolan",
+    "ano": 2010,
+    "disponivel": true
+  },
+  {
+    "id": "e7b0a1d8-04e8-4b77-8d2a-8c9e5f4d3c2b",
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "diretor": "Robert Zemeckis",
+    "ano": 1994,
+    "disponivel": true
+  },
+  {
+    "id": "f5d9c8a1-6e47-49a0-9e8c-8a2e5d9f3b1a",
+    "titulo": "Matrix",
+    "diretor": "Lana Wachowski, Lilly Wachowski",
+    "ano": 1999,
+    "disponivel": true
+  },
+  {
+    "id": "b2c1a8d7-9f6c-4e8a-8b9f-5c7d8e2f1a5b",
+    "titulo": "O Silêncio dos Inocentes",
+    "diretor": "Jonathan Demme",
+    "ano": 1991,
+    "disponivel": true
+  },
+  {
+    "id": "d1e8f3a5-7b9c-4c0a-9d2a-5b3e1f4c7d8a",
+    "titulo": "Parasita",
+    "diretor": "Bong Joon-ho",
+    "ano": 2019,
+    "disponivel": true
+  },
+  {
+    "id": "a5c6b9d8-4f7e-4b1a-8c3d-9a0e1f2c4b5e",
+    "titulo": "Interestelar",
+    "diretor": "Christopher Nolan",
+    "ano": 2014,
+    "disponivel": true
+  },
+  {
+    "id": "b7f9d1a3-8e5c-4b7d-9a2c-1d4e6f8b0c9a",
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "diretor": "Peter Jackson",
+    "ano": 2001,
+    "disponivel": true
+  },
+  {
+    "id": "c3d5e2f1-4a8b-4c7d-9e6f-1a2b3c4d5e6f",
+    "titulo": "A Chegada",
+    "diretor": "Denis Villeneuve",
+    "ano": 2016,
+    "disponivel": true
+  },
+  {
+    "id": "65611086-9527-4f1e-9492-0b8ac0ca801f",
+    "titulo": "Minecraft",
+    "diretor": "Eu",
+    "ano": 2025,
+    "disponivel": true
+  },
+  {
+    "id": "5291b94b-0d26-42d4-af70-b286eb30496c",
+    "titulo": "as tranças do rei careca",
+    "diretor": "eu",
+    "ano": 2025,
+    "disponivel": true
+  }
+]
